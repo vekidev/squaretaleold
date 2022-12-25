@@ -7,11 +7,11 @@ to make a "remaster" of the game, this time with an in-game economy, online mult
 
 ## Installation
 
-To install this old rusty game, first open cmd(or bash on linux) and run:
+To install this old rusty game, first install Python 3.10(for best performance) then open cmd(or bash on linux) and run:
 
-`pip install pygame==2.0.1`
+`pip install pygame`
 
-After that, run main.py and you will be set!
+After that, run game.py and you will be set!
 
 ## When is the remake going to come out?
 
