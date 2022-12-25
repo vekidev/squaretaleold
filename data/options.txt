@@ -1,0 +1,5 @@
+starting health=20
+jump force=3
+speed=5
+double jump=on
+life=5
