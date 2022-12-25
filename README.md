@@ -9,7 +9,7 @@ to make a "remaster" of the game, this time with an in-game economy, online mult
 
 To install this old rusty game, first open cmd(or bash on linux) and run:
 
-'pip install pygame==2.0.1'
+`pip install pygame==2.0.1`
 
 After that, run main.py and you will be set!
 
